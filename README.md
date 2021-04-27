@@ -10,5 +10,6 @@ This repository contains some Javascript Practice Questions that you should be a
 The questions can be found in the [questions](/questions) folder.
 
 Good luck!
+
 ![Goodluck](https://media.giphy.com/media/1iTX9tGRTTTVZb7q/giphy.gif
 )
