@@ -1,5 +1,4 @@
-<p style='text-align:center;'><img src='https://pinafrica.org/static/logo.svg
-' /></p>
+<p style='text-align:center;'><img src='https://pinafrica.org/static/logo.svg' /></p>
 <h1 style='text-align:center'> Javascript Practice Assignment</h1>
 
 Javascript Practice Assignment Questions designed for [PINAFRICA](https://pinafrica.org) interns and students.
@@ -11,5 +10,4 @@ The questions can be found in the [questions](/questions) folder.
 
 Good luck!
 
-![Goodluck](https://media.giphy.com/media/1iTX9tGRTTTVZb7q/giphy.gif
-)
+![Goodluck](https://media.giphy.com/media/1iTX9tGRTTTVZb7q/giphy.gif)
