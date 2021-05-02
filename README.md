@@ -1,5 +1,5 @@
-<p style='text-align:center;'><img src='https://pinafrica.org/static/logo.svg' /></p>
-<h1 style='text-align:center'> Javascript Practice Assignment</h1>
+<p style='text-align: center;'><img src='https://pinafrica.org/static/logo.svg' /></p>
+<h1 style='text-align: center'> Javascript Practice Assignment</h1>
 
 Javascript Practice Assignment Questions designed for [PINAFRICA](https://pinafrica.org) interns and students.
 
