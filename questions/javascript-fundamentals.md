@@ -38,3 +38,8 @@ In the file, create a function called `sayTodaysDate()` that accepts a `name` ar
 **hint**: The function should use the name argument passed in as `String` to do the greeting. It should also use the built-in `Date()` function in Javascript to get the current date. It can also use the `toLocale()` method to format the date appropriately.
 
 Secondly, create a function that takes in two numbers as arguments and returns a sum of both numbers to the console. **Note**: The fuction should still run properly, even if the numbers are passed in as `String`.
+
+## Question 6 (Refactoring Hard-Coded Code to reusable functions)
+Check the `question6.js` file. Inside it, you will find some hard-coded functions and some other code. Rewrite them into re-usable functions.
+
+Make sure to write them in ES6 Syntax using `let` and `const` and the fat arrow function.
